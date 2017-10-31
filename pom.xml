@@ -2,11 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>maven-release-plugin-example</artifactId>
-	<version>0.3-SNAPSHOT</version>
+	<version>0.3</version>
 	<scm>
 		<url>https://github.com/sumitkgaur/mvn-rel</url>
 		<connection>scm:git:https://github.com/sumitkgaur/mvn-rel.git</connection>
-      <tag>HEAD</tag>
+      <tag>v${releaseVersion}</tag>
   </scm>
 	
 	<!-- Repository Information -->
