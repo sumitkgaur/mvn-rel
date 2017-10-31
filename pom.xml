@@ -14,7 +14,7 @@
 		<repository>
 			<id>releases</id>
 			<!-- http://localhost:8081/repository/<repository-name> -->
-			<url>file:///C:\Users\sumgaur\.m2/url>
+			<url>file:///C:\Users\sumgaur\.m2</url>
 		</repository>
 	</distributionManagement>
 	<profiles>
